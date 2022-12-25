@@ -39,12 +39,12 @@ I have gained a reputation for my successes in these roles, and have had the opp
 I have extensive experience using a variety of technologies, including:
 
 ### Software Development (Desktop, Web Development, APP Development)
-- ![](https://icon-library.com/images/java-icon/java-icon-6.jpg) Java
-- ![](https://icon-library.com/images/kotlin-icon/kotlin-icon-3.jpg) Kotlin
-- ![](https://icon-library.com/images/javascript-icon/javascript-icon-4.jpg) JavaScript, TypeScript
-- ![](https://icon-library.com/images/c-icon/c-icon-5.jpg) C, C++, C#
-- ![](https://icon-library.com/images/python-icon/python-icon-5.jpg) Python (Django, Flask)
-- ![](https://icon-library.com/images/rust-icon/rust-icon-3.jpg) Rust
+- Java
+- Kotlin
+- JavaScript, TypeScript
+- C, C++, C#
+- Python (Django, Flask)
+- Rust
 - Go
 - Solidity
 - PHP 
