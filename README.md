@@ -2,32 +2,42 @@
 
 ## Contact Information
 
-- Link for the Download of my Resume (aka Curriculum Vitae): https://fernandodasilva.w3spaces.com/
-- Phone: +1 (917) 719-6438 (text)
 - Email: fernando4capital@gmail.com
 
 ## History
 
-I am a techie with a love for interacting with human beings. This is one of my best features and qualities. 
+I'm a Techie, and I'm a Financial Geek. I love interactions with human beings. This is one of my best features and quality.
 
-I have been working in the software development industry since I was 15, when I created my first paid project - a system to assist hundreds of local retailers and banks in managing customer loan risks. This was a precursor to the credit score system. 
+History:
+When I was 15, I created my first paid project. A system to assist hundreds of local retailers and Banks in managing customer loan risks, basically a precursor of the Credit Score system.
 
-Since then, I have been recognized for my computer skills and have worked for companies such as Microsoft, where I have held various positions including programmer, software developer, backend developer, frontend developer, site reliability engineer, and project manager. 
+Soon after, recruiters recognized my computer skills, and I started to work for one of the largest companies of the 1990s - Microsoft.
 
-Throughout my career, I have had the opportunity to work on projects for banks, insurance companies, startups, and Fortune 500 corporations using a wide range of technologies and software languages, including C, C++, C#, Go, JavaScript with Typescript, Python, and Rust. 
+I was called already a Programmer, Software Developer, Backend Developer or Frontend Developer, Full-Stack Developer, Software Engineer, Project Manager, and Software Engineering Manager.
 
-I have also had the chance to work with various operational systems, such as Linux and Microsoft, and companies like Amazon and Google. 
+All those position names are just a layer of what I am, and what I performed.
 
-Currently, I work remotely from anywhere in the world and am constantly improving myself by utilizing various technologies, tools, frameworks, and hardware.
+As I told you: Techie, Financial Geek, and I love interactions with human beings. 
 
-Thank you for finding me. Feel free to send me a message at fernando4capital@gmail.com to chat and see how I can help you. Success!
+I was able to witness the birth of the Personal Computer software development industry and as a curious researcher does, I learned and experienced a vast amount of software languages and technology.
+
+Now I work remotely from anywhere in the world, constantly improving myself by utilizing various technologies, software languages, tools, frameworks, operational systems, and hardware.
+
+I've worked on projects for the largest banks in Brazil, France, and Germany, as well at insurance companies in France, utilizing a wide range of technologies and software languages, from C to Python and from C++ to Go and Rust, or from C# to JavaScript with Typescript.
+
+Furthermore, I had the opportunity to create software for a wide range of businesses at all levels, from startups to Fortune 500 corporations, using a variety of technologies ranging from Amazon to Google and operational systems ranging from Linux to Microsoft.
+
+Thank you so much for finding me. 
+Send me a message at fernando4capital@gmail.com 
+
+Let's chat and see how I can help you. Success!
 
 # Experience
 
 ## Core Kaizen
 
-- Position: Senior Software Developer
-- Time: Part-time · 8 yrs
+- Position: Senior Software Engineer
+- Time: 35+ years.
 - Location: Remote Worldwide
 
 As a software developer, solution architect, and project manager, my expertise lies in building solutions and software development. 
