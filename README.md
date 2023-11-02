@@ -35,7 +35,7 @@ Let's talk and see how I can help you. Success!
 
 # Experience
 
-## Europa8 Venture Capital logo
+## Europa8 Venture Capital
 Senior Software EngineerSenior Software Engineer
 Europa8 Venture Capital · Part-timeEuropa8 Venture Capital · Part-time
 Jan 2020 - Present · 3 yrs 11 mosJan 2020 - Present · 3 yrs 11 mos
@@ -62,7 +62,6 @@ I remain well-versed in NoCode and LowCode tools, including Webflow, Bubble, Flu
 ## Core Kaizen
 
 - Position: Senior Software Engineer
-- Time: 35+ years.
 - Location: Remote Worldwide
 
 As a software developer, solution architect, and project manager, my expertise lies in building solutions and software development. 
