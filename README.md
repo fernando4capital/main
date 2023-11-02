@@ -36,9 +36,9 @@ Let's talk and see how I can help you. Success!
 # Experience
 
 ## Europa8 Venture Capital
-Senior Software EngineerSenior Software Engineer
-Europa8 Venture Capital · Part-timeEuropa8 Venture Capital · Part-time
-Jan 2020 - Present · 3 yrs 11 mosJan 2020 - Present · 3 yrs 11 mos
+Senior Software Engineer
+Europa8 Venture Capital · Part-time
+Jan 2020 - Present
 Zurich, Switzerland · HybridZurich, Switzerland · Hybrid
 
 I am currently thriving as a Senior Software Engineer Specialist at Europa8, where I continue to make a substantial impact on the company and its clients. My versatile background and skill set in technology, finance, and sales have allowed me to adapt and excel in the ever-evolving landscape of the software industry.
