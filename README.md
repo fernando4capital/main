@@ -13,11 +13,11 @@ When I was 15, I created my first paid project. A system to assist hundreds of l
 
 Soon after, recruiters recognized my computer skills, and I started to work for one of the largest companies of the 1990s - Microsoft.
 
-I was called already a Programmer, Software Developer, Backend Developer or Frontend Developer, Full-Stack Developer, Software Engineer, Project Manager, and Software Engineering Manager.
+I was called a Programmer, Software Developer, Backend Developer or Frontend Developer, Full-Stack Developer, Software Engineer, Project Manager, and Software Engineering Manager.
 
 All those position names are just a layer of what I am, and what I performed.
 
-As I told you: Techie, Financial Geek, and I love interactions with human beings. 
+As I told you: Techie, a Financial Geek, and I love interactions with human beings. 
 
 I was able to witness the birth of the Personal Computer software development industry and as a curious researcher does, I learned and experienced a vast amount of software languages and technology.
 
@@ -28,11 +28,36 @@ I've worked on projects for the largest banks in Brazil, France, and Germany, as
 Furthermore, I had the opportunity to create software for a wide range of businesses at all levels, from startups to Fortune 500 corporations, using a variety of technologies ranging from Amazon to Google and operational systems ranging from Linux to Microsoft.
 
 Thank you so much for finding me. 
-Send me a message at fernando4capital@gmail.com 
 
-Let's chat and see how I can help you. Success!
+Please, send me a message at fernando4capital@gmail.com 
+
+Let's talk and see how I can help you. Success!
 
 # Experience
+
+## Europa8 Venture Capital logo
+Senior Software EngineerSenior Software Engineer
+Europa8 Venture Capital · Part-timeEuropa8 Venture Capital · Part-time
+Jan 2020 - Present · 3 yrs 11 mosJan 2020 - Present · 3 yrs 11 mos
+Zurich, Switzerland · HybridZurich, Switzerland · Hybrid
+
+I am currently thriving as a Senior Software Engineer Specialist at Europa8, where I continue to make a substantial impact on the company and its clients. My versatile background and skill set in technology, finance, and sales have allowed me to adapt and excel in the ever-evolving landscape of the software industry.
+
+I remain tech-savvy and financially astute, which continues to prove beneficial in various projects. My leadership and mentoring experience are instrumental in shaping the success of our team, and fostering a positive work environment. Furthermore, my commitment to personal and professional growth is evident as continually improve my German skills.
+
+🔰 Technological Expertise
+My extensive knowledge of programming languages and technologies remains a cornerstone of my role. I am proficient in languages such as Java, Python, C++, C#, Go, and Zig.
+
+My expertise in web and mobile development using HTML, CSS, TypeScript, JavaScript, PHP, and .NET, along with various frameworks and libraries, including JQuery, Angular, Vue, React, NextJS (Vercel), Svelte, and Laravel, continues to serve our clients effectively.
+
+🌐 Language Proficiency
+I leverage my proficiency in English, German, French, Spanish, and Portuguese to connect with people worldwide, making international collaboration seamless and effective.
+
+🔰 Database Management
+In database management, I maintain experience with MS-SQL Server, PostgreSQL, MySQL, and Oracle, including database design and administration, stored procedures, and query performance tuning. This expertise continues to be vital in delivering efficient solutions to our clients.
+
+🔰 NoCode/LowCode Tools
+I remain well-versed in NoCode and LowCode tools, including Webflow, Bubble, FlutteFlow, Adalo, Airtable, Retool, Softr, Tableau, Zapier, Supabase, and Weld, ensuring we cater to a wide range of client needs.
 
 ## Core Kaizen
 
