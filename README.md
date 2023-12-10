@@ -35,11 +35,11 @@ Let's talk and see how I can help you. Success!
 
 # Experience
 
-## Vilnius Coding School logo
+## Vilnius Coding School
 ### Senior LecturerSenior Lecturer
 Vilnius CODING School · 
 Dec 2023 - Present 
-Vilnius, Vilniaus, Lithuania ·
+Vilnius, Lithuania ·
  
 🚀 Excited to embark on my journey as a Lecturer at Vilnius Coding School! 
 
