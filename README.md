@@ -111,12 +111,24 @@ I have gained a reputation for my successes in these roles, and have had the opp
 
 I have extensive experience using a variety of technologies, including:
 
+🔰 ### Data Engineering:
+Python with multiple Frameworks and Libraries like:
+• TensorFlow
+• NumPy
+• SciPy
+• Pandas
+• Matplotlib
+• Keras
+• SciKit-Learn
+• PyTorch 
+also Web with Django, Flask, and FastAPI
+
 ### Software Development (Desktop, Web Development, APP Development)
 - Java
 - Kotlin
 - JavaScript, TypeScript
 - C, C++, C#
-- Python (Django, Flask)
+- Python
 - Rust
 - Go
 - Solidity
@@ -148,23 +160,24 @@ I have extensive experience using a variety of technologies, including:
 
 ### Cloud
 - Microsoft Azure
-- Amazon AWS
-- Google Cloud Platform
 - IBM Cloud (SoftLayer)
+- Google Cloud Platform
+- Amazon AWS
 
 ### Frameworks
-- Svelte
-- React (Native, and ReactJs)
-- VueJs
+- Astro
 - Angular
+- React (Native, and ReactJs)
+- Svelte
+- VueJs
 
 ### No / Low Code
 - Bubble
+- FlutterFlow
 - Softr
 - Adalo 
 - Airtable
 - Retool
-- FlutterFlow
 - Microsoft Power Apps
 
 ### Operational Systems
@@ -181,6 +194,8 @@ I have extensive experience using a variety of technologies, including:
 - Figma
 
 ### Cross-platform, front-end, back-end, runtime environments, etc
+- Bun
+- Deno
 - NodeJs (JavaScript)
 - Flask (Python)
 - Django (Python)
@@ -199,6 +214,7 @@ I have extensive experience using a variety of technologies, including:
 - NFT [ Metamask.io | OpenSea.io | Looksrare.org ]
 
 ### Game Engine Architecture Scripts using C++ and C#
+- Godot
 - Unreal [unrealengine.com]
 - Unity [unity.com]
 
