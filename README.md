@@ -35,7 +35,7 @@ Let's talk and see how I can help you. Success!
 
 # Experience
 
-## Vilnius CODING School logo
+## Vilnius Coding School logo
 ### Senior LecturerSenior Lecturer
 Vilnius CODING School · 
 Dec 2023 - Present 
