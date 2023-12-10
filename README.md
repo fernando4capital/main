@@ -35,6 +35,45 @@ Let's talk and see how I can help you. Success!
 
 # Experience
 
+## Vilnius CODING School logo
+### Senior LecturerSenior Lecturer
+Vilnius CODING School · 
+Dec 2023 - Present 
+Vilnius, Vilniaus, Lithuania ·
+ 
+🚀 Excited to embark on my journey as a Lecturer at Vilnius Coding School! 
+
+🔗 Professional Background:
+Worked as a pioneer since 1985 in the software industry, excelling in diverse roles with a 360° holistic view.
+
+🌐 As a skilled professional in technology, my passion lies in connecting with people and solving problems through the lens of diverse programming languages and development frameworks.
+
+👨‍🏫 Daily Tasks:
+- Conduct engaging lectures on a variety of programming languages, including Python, Java, Kotlin, JavaScript, C#, C++, C, Go, Zig, and Rust.
+
+🚀 Guiding students in :
+- Data Analysis with Python and SQL
+- Web and mobile development using HTML, CSS, TypeScript, and PHP.
+- Exploring frameworks and libraries such as Astro, JQuery, Angular, Vue, React, NextJS (Vercel), Svelte, and Laravel to impart comprehensive knowledge.
+- Dive into JavaScript runtime development with expertise in Node.js, Deno, and Bun.
+- Sharing practical experience in database management, covering MS-SQL Server, PostgreSQL, MySQL, and Oracle.
+- Instruct on database design, administration, stored procedures, and query performance tuning.
+- Introduce students to NoCode tools like Framer, Webflow, Bubble, FlutterFlow, Adalo, Airtable, Retool, Softr, Tableau, Zapier, Supabase, and Weld.
+- Teach Microsoft Excel proficiency with a focus on Financial and Banking solutions using VBA and Python.
+- Engage students in the world of Artificial Intelligence (AI) environments and tools.
+
+💼 Courses I Can Lecture:
+- Data Analysis with Python with libs like Pandas, and tools like Tableau.
+- Introduction to Artificial Intelligence
+- Database Management and Design
+- Full-Stack Development
+- Web Development with JavaScript Frameworks 
+- Web Development with Python Frameworks ( Django, Flask ).
+- Mobile App Development with JavaScript or Flutter
+- NoCode Tools for Rapid Prototyping
+- Excel for Financial and Banking
+- Quantitative Analysis for Financial Market Investors, AND MORE...
+
 ## Europa8 Venture Capital
 Senior Software Engineer
 Europa8 Venture Capital · Part-time
