@@ -36,7 +36,7 @@ Let's talk and see how I can help you. Success!
 # Experience
 
 ## Vilnius Coding School
-### Senior LecturerSenior Lecturer
+### Senior Lecturer
 Vilnius CODING School · 
 Dec 2023 - Present 
 Vilnius, Lithuania ·
